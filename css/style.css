@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.btn-change{
+    display: block;
+    margin: 20% auto;
+    padding: 0.5% 2%;
+    color: white;
+    background-color: #fab1a0;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
